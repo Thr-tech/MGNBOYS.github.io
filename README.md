@@ -1,4 +1,4 @@
-[![MasterHead](https://camo.githubusercontent.com/6772fa483f1d3f1ec8e0a2bb4dce466491c852b66910e237087cef51252860cd/68747470733a2f2f67696666696c65732e616c706861636f646572732e636f6d2f3137342f313734342e676966)](https://rishavchanda.io)
+[![MGN THE WEB HACKER](https://camo.githubusercontent.com/6772fa483f1d3f1ec8e0a2bb4dce466491c852b66910e237087cef51252860cd/68747470733a2f2f67696666696c65732e616c706861636f646572732e636f6d2f3137342f313734342e676966)](https://rishavchanda.io)
 
 <h1 align="center" style="color:#4CAF50;">Hi 👋, I'm Thr-tech</h1>
 <h3 align="center" style="color:#2196F3;">A passionate frontend developer from UNKNOWN</h3>
@@ -38,7 +38,7 @@
     <a href="https://stackoverflow.com/users/private" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="private" height="30" width="40" /></a>
     <a href="https://codesandbox.com/private" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="private" height="30" width="40" /></a>
     <a href="https://fb.com/lion.91.4th" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lion.91.4th" height="30" width="40" /></a>
-    <a href="https://www.youtube.com/@Anime-AMV8888" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@anime-amv888" height="30" width="40" /></a>
+    <a href="https://www.youtube.com/@Aniflipoffical" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@anime-amv888" height="30" width="40" /></a>
     <a href="https://auth.geeksforgeeks.org/user/private" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="private" height="30" width="40" /></a>
 </p>
 
